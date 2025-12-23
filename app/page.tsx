@@ -40,7 +40,7 @@ export default function Home() {
                 Pour tout le monde.
               </h2>
               <p className="text-gray-300 text-lg md:text-xl leading-relaxed max-w-3xl mx-auto">
-                NadayMusic n'est pas réservé aux artistes professionnels.
+                NadayMusic n&apos;est pas réservé aux artistes professionnels.
                 <br />
                 Si tu aimes créer de la musique, tu peux poster.
                 <br />
@@ -66,7 +66,7 @@ export default function Home() {
                 <br />
                 Tu postes ta musique comme tu le souhaites,
                 <br />
-                pour la partager, la tester, ou simplement t'exprimer.
+                pour la partager, la tester, ou simplement t&apos;exprimer.
                 <br />
                 <span className="text-naday-primary font-semibold">NadayMusic est un espace libre de création et de découverte.</span>
               </p>

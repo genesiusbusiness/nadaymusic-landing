@@ -107,7 +107,7 @@ export default function ComingSoonModal({ isOpen, onClose }: ComingSoonModalProp
                   type="submit"
                   className="w-full py-3 rounded-xl bg-gradient-naday text-white font-semibold hover:opacity-90 transition-opacity focus:outline-none focus:ring-2 focus:ring-naday-primary focus:ring-offset-2 focus:ring-offset-naday-darker"
                 >
-                  M'inscrire
+                  M&apos;inscrire
                 </button>
               </form>
 
